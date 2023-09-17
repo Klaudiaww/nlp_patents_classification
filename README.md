@@ -1,2 +1,3 @@
 # nlp_patents_classification
-Neural network which classifies patents into two cathegories.
+Neural network model which classifies patents into two cathegories.
+The script uses TensorFlow library with Keras.
